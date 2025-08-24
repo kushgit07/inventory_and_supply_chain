@@ -33,6 +33,3 @@ To work on this project:
 
 
 
-
-                                          Made with ❤️ by Siddharth Tripathi
-
