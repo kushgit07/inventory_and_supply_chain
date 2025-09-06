@@ -6,7 +6,6 @@ Managing inventory and ensuring an efficient supply chain are critical for busin
 
 ## 🚀 Project Highlights
 
-In this project, you’ll learn how to:
 - 🧹 **Data Cleaning & Transformation**: Use Power Query to clean and model supply chain datasets.
 - 📦 **Inventory Metrics**: Track stock levels, turnover rates, reorder points, and backorders.
 - 🚚 **Supply Chain KPIs**: Analyze lead times, delivery performance, and supplier reliability.
@@ -17,7 +16,7 @@ In this project, you’ll learn how to:
 
 ## 🛠 Getting Started
 
-To work on this project:
+want this project:
 1. **Clone or fork** this repository.
 2. Open the `.pbix` file with **Power BI Desktop**.
 3. Download the provided datasets or connect your own inventory and supply chain data.
